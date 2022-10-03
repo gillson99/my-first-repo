@@ -1,4 +1,4 @@
 
-def tomato(a,b):
+def corn(a,b):
     return a + b
 
